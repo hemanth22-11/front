@@ -1,4 +1,4 @@
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || "http://localhost:8000";
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || "https://bac-35ui.onrender.com/";
 export const storageKeys = {
   token: "inventory_token",
   user: "inventory_user",
